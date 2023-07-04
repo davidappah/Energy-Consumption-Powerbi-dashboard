@@ -5,7 +5,7 @@ The dashboard consists of multiple interactive visualizations and key performanc
 
 Overall Energy Consumption: The dashboard presents a summary of the total energy consumed for water, electricity, and gas. This information helps users understand the overall energy consumption trends at a glance.
 
-Consumption Trends: Line charts or area charts are used to visualize the consumption trends over time for each energy source. Users can select specific time periods or drill down to specific days, weeks, or months for detailed analysis.
+Consumption Trends: Line charts are used to visualize the consumption trends over time for each energy source. Users can select specific time periods for detailed analysis.
 
 Comparison and Benchmarking: The dashboard allows users to compare energy consumption across different periods, locations, or buildings. This feature enables benchmarking against predefined targets or industry standards to identify outliers and potential areas for improvement.
 
