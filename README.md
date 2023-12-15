@@ -10,3 +10,4 @@ Consumption Trends: Line charts are used to visualize the consumption trends ove
 Comparison and Benchmarking: The dashboard allows users to compare energy consumption across different periods, locations, or buildings. This feature enables benchmarking against predefined targets or industry standards to identify outliers and potential areas for improvement.
 
 Customizable Filters: Interactive filters are incorporated into the dashboard to allow users to slice and dice the data based on different dimensions such as location, building, or specific devices. This customization helps users analyze energy consumption patterns in specific areas or equipment.
+step 1 -Please kindly click file with pbix extension step 2 Click on the View raw or download button to download pbix file
